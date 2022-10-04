@@ -16,4 +16,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-01vianaaires@gmail.com
+01m.viana@gmail.com
